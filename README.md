@@ -1,6 +1,6 @@
 ### Hi there, I'm xVoiceSyntax 👋
 
-Im hobby developer and penetration tester. I programming with Java, Python, little C++/C and C#. My main programming language is Java.
+Im hobby developer and hobby penetration tester. I programming with Java, Python, little C++/C and C#. My main programming language is Java.
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
 
