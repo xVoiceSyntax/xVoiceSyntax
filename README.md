@@ -1,24 +1,25 @@
-### Hi there, I'm xVoiceSyntax 👋
+<h1 align="center">Hello there  👋</h1>
 
 ## I'm a hobby penetration tester and hobby programmer
 
+- I’m currently learning Web Development and the Kotlin Language
+
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
 
-### Languages:
+## Languages
 
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+[![Java](https://img.shields.io/badge/Java-FF002B?style=for-the-badge&logo=Java)](https://oracle.com/java)
+![C++](https://img.shields.io/badge/C%2B%2B-5C2D91?style=for-the-badge&logo=c%2B%2B&logoColor=fff)
+[![Python](https://img.shields.io/badge/Python-3617FF?style=for-the-badge&logo=Python)](https://www.python.org/)
+[![C#](https://img.shields.io/badge/CSharp-04B404?style=for-the-badge&logo=C#)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
-<br />
-<br />
+## Other Tools
 
-### Tools:
-
-<img align="left" alt="Intellij Community" width="26px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)](https://www.docker.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-336791?style=for-the-badge&logo=MongoDB&logoColor=fff)](https://www.mongodb.com)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-FF5784?style=for-the-badge&logo=Ubuntu)](https://ubuntu.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-04B404?style=for-the-badge&logo=GitHub)](https://github.com)
+[![Git](https://img.shields.io/badge/Git-FA5858?style=for-the-badge&logo=Git)](https://git-scm.com/)
 
 <br />
 <br />
