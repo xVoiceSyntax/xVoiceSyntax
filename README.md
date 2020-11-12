@@ -9,10 +9,10 @@
 ## Languages
 
 [![Java](https://img.shields.io/badge/Java-FF002B?style=for-the-badge&logo=Java)](https://oracle.com/java)
-[C++](https://img.shields.io/badge/C%2B%2B-5C2D91?style=for-the-badge&logo=c%2B%2B&logoColor=fff)
+![C++](https://img.shields.io/badge/C%2B%2B-5C2D91?style=for-the-badge&logo=c%2B%2B&logoColor=fff)
 [![Python](https://img.shields.io/badge/Python-3617FF?style=for-the-badge&logo=Python)](https://www.python.org/)
 [![C#](https://img.shields.io/badge/CSharp-04B404?style=for-the-badge&logo=C#)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[Assembly](https://img.shields.io/badge/Assembly-848484?style=for-the-badge&logo=Assembly)
+![Assembly](https://img.shields.io/badge/Assembly-848484?style=for-the-badge&logo=Assembly)
 
 ## Other Tools
 
