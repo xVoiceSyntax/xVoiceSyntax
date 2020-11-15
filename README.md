@@ -14,7 +14,7 @@
 [![Python](https://img.shields.io/badge/Python-3617FF?style=for-the-badge&logo=Python)](https://www.python.org/)
 [![C#](https://img.shields.io/badge/CSharp-04B404?style=for-the-badge&logo=C#)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 ![HTML](https://img.shields.io/badge/HTML-E76C0D?style=for-the-badge&logo=HTML&logoColor=fff)
-[![CSS (SCSS/SASS)](https://img.shields.io/badge/CSS-19AAE3?style=for-the-badge&logo=CSS&logoColor=fff)](https://sass-lang.com/)
+[![CSS (SCSS/SASS)](https://img.shields.io/badge/CSS%20(SASS/SCSS)-19AAE3?style=for-the-badge&logo=CSS&logoColor=fff)](https://sass-lang.com/)
 
 ## Other Tools
 
