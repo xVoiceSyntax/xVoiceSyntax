@@ -18,7 +18,7 @@
 ## Front-end Development
 
 ![HTML](https://img.shields.io/badge/HTML-E76C0D?style=for-the-badge&logo=HTML&logoColor=fff)
-[![SCSS](https://img.shields.io/badge/SCSS-19AAE3?style=for-the-badge&logo=SCSS&logoColor=fff)](https://sass-lang.com/)
+[![SASS](https://img.shields.io/badge/SASS-19AAE3?style=for-the-badge&logo=SASS&logoColor=fff)](https://sass-lang.com/)
 
 ## Other Tools
 
