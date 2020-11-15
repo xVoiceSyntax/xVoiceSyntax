@@ -13,9 +13,12 @@
 [![Java](https://img.shields.io/badge/Java-FF002B?style=for-the-badge&logo=Java)](https://oracle.com/java)
 [![Python](https://img.shields.io/badge/Python-3617FF?style=for-the-badge&logo=Python)](https://www.python.org/)
 [![C#](https://img.shields.io/badge/CSharp-04B404?style=for-the-badge&logo=C#)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-![HTML](https://img.shields.io/badge/HTML-E76C0D?style=for-the-badge&logo=HTML&logoColor=fff)
-[![CSS (SCSS/SASS)](https://img.shields.io/badge/CSS%20(SASS/SCSS)-19AAE3?style=for-the-badge&logo=CSS&logoColor=fff)](https://sass-lang.com/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-FF8000?style=for-the-badge&logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)
+
+## Front-end Development
+
+![HTML](https://img.shields.io/badge/HTML-E76C0D?style=for-the-badge&logo=HTML&logoColor=fff)
+[![SCSS](https://img.shields.io/badge/SCSS-19AAE3?style=for-the-badge&logo=SCSS&logoColor=fff)](https://sass-lang.com/)
 
 ## Other Tools
 
@@ -24,6 +27,7 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-FF5784?style=for-the-badge&logo=Ubuntu)](https://ubuntu.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-04B404?style=for-the-badge&logo=GitHub)](https://github.com)
 [![Git](https://img.shields.io/badge/Git-FA5858?style=for-the-badge&logo=Git)](https://git-scm.com/)
+[![NGINX](https://img.shields.io/badge/NGINX-269539?style=for-the-badge&logo=nginx&logoColor=fff)](https://www.nginx.com/)
 
 <br />
 <br />
