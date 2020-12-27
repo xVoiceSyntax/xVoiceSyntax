@@ -20,6 +20,7 @@
 
 ![HTML](https://img.shields.io/badge/HTML-E76C0D?style=for-the-badge&logo=HTML&logoColor=fff)
 [![SASS](https://img.shields.io/badge/SASS-19AAE3?style=for-the-badge&logo=SASS&logoColor=fff)](https://sass-lang.com/)
+![JavaScript](https://img.shields.io/badge/JavaScript-DF013A?style=for-the-badge&logo=javascript&logoColor=fff)
 
 ## Other Tools
 
