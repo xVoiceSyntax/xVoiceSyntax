@@ -12,9 +12,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-5C2D91?style=for-the-badge&logo=c%2B%2B&logoColor=fff)
 ![Assembly](https://img.shields.io/badge/Assembly-848484?style=for-the-badge&logo=Assembly)
 [![Java](https://img.shields.io/badge/Java-FF002B?style=for-the-badge&logo=Java)](https://oracle.com/java)
-[![Python](https://img.shields.io/badge/Python-3617FF?style=for-the-badge&logo=Python)](https://www.python.org/)
 [![C#](https://img.shields.io/badge/CSharp-04B404?style=for-the-badge&logo=C#)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![Kotlin](https://img.shields.io/badge/Kotlin-FF8000?style=for-the-badge&logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)
 
 ## Front-end Development
 
