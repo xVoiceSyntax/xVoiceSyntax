@@ -6,7 +6,7 @@
 - I’m currently working on private Projects
 
 - Btw. you can find me on TryHackMe: https://tryhackme.com/p/xVoiceSyntax
-   <img src="https://tryhackme-badges.s3.amazonaws.com/xVoiceSyntax.png" alt="TryHackMe">
+   ![](https://tryhackme-badges.s3.amazonaws.com/xVoiceSyntax.png)
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
 
