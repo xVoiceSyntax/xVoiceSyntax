@@ -2,7 +2,7 @@
 
 ## I'm a hobby penetration tester and hobby programmer
 
-- I’m currently learning the Rust
+- I’m currently learning the Rust language
 - I’m currently working on private Projects
 - Btw. you can find me on TryHackMe: https://tryhackme.com/p/xVoiceSyntax
 
