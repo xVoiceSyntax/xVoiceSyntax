@@ -12,6 +12,7 @@
 
 [![Java](https://img.shields.io/badge/Java-FF002B?style=for-the-badge&logo=Java)](https://oracle.com/java)
 [![Kotlin](https://img.shields.io/badge/Kotlin-FF8000?style=for-the-badge&logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)
+![HTML](https://img.shields.io/badge/HTML-ff8c00?style=for-the-badge&logo=HTML)
 
 ## Other Tools
 
