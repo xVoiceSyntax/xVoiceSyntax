@@ -26,13 +26,6 @@
 <br />
 <br />
 
-<a href="https://github.com/xVoiceSyntax/xVoiceSyntax">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=xVoiceSyntax&theme=radical" />
-</a>
-<a href="https://github.com/xVoiceSyntax/xVoiceSyntax">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=xVoiceSyntax&show_icons=true&theme=radical&line_height=27" alt="xVoiceSyntax" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/wakatime?username=xVoiceSyntax&show_icons=true&hide_border=true&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=xVoiceSyntax&show_icons=true&hide_border=true&theme=radical&line_height=27" alt = "xVoiceSyntax" />
-</a>
+![Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=xVoiceSyntax&theme=radical)
+![Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=xVoiceSyntax&show_icons=true&theme=radical&line_height=27)
+![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=xVoiceSyntax&show_icons=true&hide_border=true&theme=radical&line_height=27)
