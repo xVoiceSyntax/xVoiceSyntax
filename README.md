@@ -13,6 +13,8 @@
 [![Java](https://img.shields.io/badge/Java-FF002B?style=for-the-badge&logo=Java)](https://oracle.com/java)
 [![Kotlin](https://img.shields.io/badge/Kotlin-FF8000?style=for-the-badge&logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)
 ![HTML](https://img.shields.io/badge/HTML-ff8c00?style=for-the-badge&logo=HTML)
+[![Python](https://img.shields.io/badge/Python-000024?style=for-the-badge&logo=Python)](https://www.python.org/)
+![JavaScript](https://img.shields.io/badge/JavaScript-e09200?style=for-the-badge&logo=JavaScript)
 
 ## Other Tools
 
