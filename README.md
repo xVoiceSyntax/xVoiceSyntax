@@ -12,6 +12,10 @@
 - Discord: xVoiceSyntax#1337
 - TryHackMe: http://tryhackme.com/p/xVoiceSyntax
 
+### Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
 
 ## Languages
