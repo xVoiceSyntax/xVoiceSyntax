@@ -14,6 +14,11 @@
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cryptography: A lot of math and an important field in computer science](http://slsp.dev/cryptography/)
+- [Raspberry Pi Pico: Microcontroller with a small price tag](http://slsp.dev/raspberry-pi-pico-microcontroller/)
+- [Meow! Attacks on Elasticsearch and MongoDB servers.](http://slsp.dev/meow-attacks-on-elasticsearch-and-mongodb-servers/)
+- [Telemetry in Microsoft Windows](http://slsp.dev/telemetry-in-microsoft-windows/)
+- [What is the value of using computers in the field of medicine.](http://slsp.dev/what-is-the-value-of-using-computers-in-the-field-of-medicine/)
 <!-- BLOG-POST-LIST:END -->
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
