@@ -37,10 +37,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-e09200?style=for-the-badge&logo=JavaScript)
 
 ## Other Tools
-
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)](https://www.docker.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-336791?style=for-the-badge&logo=MongoDB&logoColor=fff)](https://www.mongodb.com)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-FF5784?style=for-the-badge&logo=Ubuntu)](https://ubuntu.com/)
+[![Kali](https://img.shields.io/badge/Kali-6699ff?style=for-the-badge&logo=Kali)](http://kali.org/)
 <br />
 [![GitHub](https://img.shields.io/badge/GitHub-04B404?style=for-the-badge&logo=GitHub)](https://github.com)
 [![Git](https://img.shields.io/badge/Git-FA5858?style=for-the-badge&logo=Git)](https://git-scm.com/)
