@@ -14,11 +14,11 @@
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Malicious software: Can you protect yourself from it?](http://slsp.dev/malware-can-you-protect-yourself/)
 - [Botnets: What kind of power do these constructs have?](http://slsp.dev/botnets/)
 - [Cryptography: A lot of math and an important field in computer science](http://slsp.dev/cryptography/)
 - [Raspberry Pi Pico: Microcontroller with a small price tag](http://slsp.dev/raspberry-pi-pico-microcontroller/)
 - [Meow! Attacks on Elasticsearch and MongoDB servers.](http://slsp.dev/meow-attacks-on-elasticsearch-and-mongodb-servers/)
-- [Telemetry in Microsoft Windows](http://slsp.dev/telemetry-in-microsoft-windows/)
 <!-- BLOG-POST-LIST:END -->
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
