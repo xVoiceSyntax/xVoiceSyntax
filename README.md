@@ -3,15 +3,6 @@
 
 ## I'm a hobby programmer and penetration tester.
 
-### Current topic
-- I'm currently working on private projects, more "Offensive Hacking" and learn "Defensive Hacking"
-- I'm learning HTML, CSS, JavaScript and Rust
-
-### Contact and profiles:
-
-- Discord: xVoiceSyntax#1337
-- TryHackMe: http://tryhackme.com/p/xVoiceSyntax
-
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Malware: Can you protect yourself?](http://slsp.dev/dns-amplification-attacks/)
@@ -25,14 +16,9 @@
 
 ## Languages
 
-### Software Development
-
 [![Java](https://img.shields.io/badge/Java-FF002B?style=for-the-badge&logo=Java)](https://oracle.com/java)
 [![Kotlin](https://img.shields.io/badge/Kotlin-FF8000?style=for-the-badge&logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)
 [![Python](https://img.shields.io/badge/Python-000024?style=for-the-badge&logo=Python)](https://www.python.org/)
-
-### Web-Development
-
 ![HTML](https://img.shields.io/badge/HTML-ff8c00?style=for-the-badge&logo=HTML)
 ![JavaScript](https://img.shields.io/badge/JavaScript-e09200?style=for-the-badge&logo=JavaScript)
 
@@ -41,7 +27,6 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-336791?style=for-the-badge&logo=MongoDB&logoColor=fff)](https://www.mongodb.com)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-FF5784?style=for-the-badge&logo=Ubuntu)](https://ubuntu.com/)
 [![Kali](https://img.shields.io/badge/Kali-6699ff?style=for-the-badge&logo=Kali)](http://kali.org/)
-<br />
 [![GitHub](https://img.shields.io/badge/GitHub-04B404?style=for-the-badge&logo=GitHub)](https://github.com)
 [![Git](https://img.shields.io/badge/Git-FA5858?style=for-the-badge&logo=Git)](https://git-scm.com/)
 [![NGINX](https://img.shields.io/badge/NGINX-269539?style=for-the-badge&logo=nginx&logoColor=fff)](https://www.nginx.com/)
