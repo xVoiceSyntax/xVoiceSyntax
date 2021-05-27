@@ -30,9 +30,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-04B404?style=for-the-badge&logo=GitHub)](https://github.com)
 [![Git](https://img.shields.io/badge/Git-FA5858?style=for-the-badge&logo=Git)](https://git-scm.com/)
 [![NGINX](https://img.shields.io/badge/NGINX-269539?style=for-the-badge&logo=nginx&logoColor=fff)](https://www.nginx.com/)
-
-<br />
-<br />
-
-![Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=xVoiceSyntax&theme=radical)
-![Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=xVoiceSyntax&show_icons=true&theme=radical&line_height=27)
