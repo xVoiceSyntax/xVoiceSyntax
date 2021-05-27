@@ -5,7 +5,7 @@
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Malware: Can you protect yourself?](http://slsp.dev/dns-amplification-attacks/)
+- [Malware: Can you protect yourself?](http://slsp.dev/malware-can-you-protect-yourself/)
 - [Botnets: What kind of power do these constructs have?](http://slsp.dev/botnets/)
 - [Cryptography: A lot of math and an important field in computer science](http://slsp.dev/cryptography/)
 - [Raspberry Pi Pico: Microcontroller with a small price tag](http://slsp.dev/raspberry-pi-pico-microcontroller/)
