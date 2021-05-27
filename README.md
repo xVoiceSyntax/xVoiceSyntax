@@ -51,4 +51,3 @@
 
 ![Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=xVoiceSyntax&theme=radical)
 ![Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=xVoiceSyntax&show_icons=true&theme=radical&line_height=27)
-![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=xVoiceSyntax&show_icons=true&hide_border=true&theme=radical&line_height=27)
