@@ -21,6 +21,7 @@
 [![Python](https://img.shields.io/badge/Python-000024?style=for-the-badge&logo=Python)](https://www.python.org/)
 ![HTML](https://img.shields.io/badge/HTML-ff8c00?style=for-the-badge&logo=HTML)
 ![JavaScript](https://img.shields.io/badge/JavaScript-e09200?style=for-the-badge&logo=JavaScript)
+![x86 Assembly](https://img.shields.io/badge/Assembly-8a210a?style=for-the-badge&logo=Assembly)
 
 ## Other Tools
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)](https://www.docker.com/)
